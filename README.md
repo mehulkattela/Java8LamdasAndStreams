@@ -1,1 +1,1 @@
-# kamlesh-Gaderiya_EpamProblemBasedOnJava8Feature
+EpamProblemBasedOnJava8Feature
